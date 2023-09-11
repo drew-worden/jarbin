@@ -1,0 +1,17 @@
+{
+	"name": "jarbin",
+	"author": {
+		"name": "Drew Worden",
+		"email": "drew.worden@ibm.com"
+	},
+	"description": "A convenient way to work with large language models.",
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/drew-worden/jarbin"
+  },
+	"version": "0.0.1",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT"
+}
